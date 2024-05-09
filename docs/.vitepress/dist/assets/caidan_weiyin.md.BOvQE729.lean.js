@@ -1,0 +1,1 @@
+import{_ as r,c as e,o as t,a4 as a}from"./chunks/framework.4aTu-Nia.js";const _=JSON.parse('{"title":"伪音","description":"","frontmatter":{},"headers":[],"relativePath":"caidan/weiyin.md","filePath":"caidan/weiyin.md"}'),o={name:"caidan/weiyin.md"},l=a("",8),i=[l];function n(s,p,c,h,g,d){return t(),e("div",null,i)}const f=r(o,[["render",n]]);export{_ as __pageData,f as default};
